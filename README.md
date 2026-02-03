@@ -3,7 +3,7 @@
 [![Java Version](https://img.shields.io/badge/Java-17%2B-orange)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)](https://spring.io/projects/spring-boot)
 
-> [Uma frase curta e de impacto descrevendo o que o projeto faz. Ex: API REST para gerenciamento de uma biblioteca virtual.]
+
 
 ---
 

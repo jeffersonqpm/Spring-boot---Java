@@ -14,9 +14,6 @@ public class HelloController {
     public String hello() {
         return "Oá mundo!! Bem vindo ao Spring Boot";
     }
-    
-  // novo comentário23423423235
-
    
     
 }

@@ -53,9 +53,11 @@ O projeto segue o padrão de camadas para facilitar a manutenção e escalabilid
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
 
-   ### Instalando o MAVEN
+   
 1. **Instalando o MAVEN:**
-   ```https://www.youtube.com/watch?v=DyXrclMKN4M&t=295s
+### Instalando o MAVEN
+   ```
+   https://www.youtube.com/watch?v=DyXrclMKN4M&t=295s
 
    Editar as variáveis do ambiente
    Avançado

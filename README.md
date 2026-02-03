@@ -60,6 +60,4 @@ O projeto segue o padrão de camadas para facilitar a manutenção e escalabilid
    https://www.youtube.com/watch?v=DyXrclMKN4M&t=295s
 
    Editar as variáveis do ambiente
-   Avançado
-   Variáveis de ambiente
-   Em variáveis do sistema > criar uma nova variável com o nome MAVEN_HOME e caminho vai ser onde a pasta está salva
+ 
